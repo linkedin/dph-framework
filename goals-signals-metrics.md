@@ -84,6 +84,16 @@ should be paying _more_ attention to the experience of our users than the
 specific availability numbers of low-level services (even though we might care
 about those, too).
 
+### Uncertainty
+
+**If you aren’t sure how to measure something, it’s very likely that you haven’t
+defined what it is that you are measuring.**  This was the problem with
+"developer productivity" measurements from the past--they didn’t define what
+“developer productivity” actually meant, concretely, exactly, in the physical
+universe. They attempted to measure an abstract nothing, so they had no real
+metrics. This is why it is so important to understand and clarify your goals
+before you start to think about metrics.
+
 ## Signals
 
 Signals are what you would measure if you had perfect knowledge---if you knew
