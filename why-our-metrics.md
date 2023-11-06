@@ -87,7 +87,8 @@ Code review is one of the most important quality processes at every large
 software company, and LinkedIn is no exception. While there are many things
 about code that can be caught and improved by machines, only human beings can
 tell you if code is [easy to read, easy to understand, and easy to correctly
-modify in the future](https://www.codesimplicity.com/post/the-definition-of-simplicity/).
+modify in the
+future](https://www.codesimplicity.com/post/the-definition-of-simplicity/).
 
 What you want from a code review process is that it provides continuous
 _improvement_ to your code base through effective feedback from code reviewers.
@@ -187,3 +188,52 @@ think about tracking a "number of code review iterations" metric just for the
 duration of a project focused on solving the problem, but it's not something we
 want to go to zero. We just don't want it to be absurdly high (like ten
 iterations).
+
+## Metrics for Developer Platform Team
+
+### CI Reliability (CIR)
+
+The CI system itself absolutely must return reliable results, or developers will
+start to mistrust it. In the past, we saw some teams where nearly _every_ CI
+failure was actually a failure of the CI infrastructure.
+
+Instead of focusing on the uptime of the individual pieces, we focus on the
+reliability of the system as it is _experienced by its users_. Making this the
+focus of our reliability efforts dramatically improved the actual reliability of
+our system, compared to previous efforts focused around only availability.
+
+### Deployment Reliability (DR)
+
+This has similar reasoning to CI Reliability, above.
+
+The only point worth noting is that there are sometimes discussions about
+whether the team that owns the deployment platform should be responsible for the
+full _success_ of all deployments, and not just the reliability of the
+deployment platform itself.  Over time, we have come to the conclusion that this
+should _not_ be the responsibility of the deployment platform team, because too
+many of the issues that block successful deployments are out of the hands of the
+deployment platform team. 
+
+There _are_ things that the platform team can do to make it more likely that
+people have successful deployments. For example, make it easier to add
+validation steps into a deployment. Make the configuration process for a
+deployment simpler. But overall, the actual success of a deployment depends a
+lot on the specifics of the binary being deployed and the deployment scripts
+that were written by the team that owns that binary. 
+
+If you make the deployment platform team responsible for the success of every
+deployment, you tend to make them into consultants who spend too much time
+debugging the failing deployments of customers and not enough time developing
+new features that improve the deployment experience for the whole company.
+
+### Number of Insights Metrics in SLO (NIMS)
+
+We have a team whose job it is to create data pipelines and infrastructure
+around developer productivity metrics. These metrics can't help anybody unless
+they end up in a dashboard, and that dashboard has up-to-date data.
+
+This metric doesn't measure the success of our dashboards. It measures the
+effectiveness of our team's data infrastructure. This metric measures that we
+have met the "table stakes" of being able to simply display data at all, and how
+effectively we are doing that as a team. We have other metrics to measure the
+impact our work has.
