@@ -32,7 +32,7 @@ but that conceptually, a person could know whether you were getting closer to
 In developing a goal, you can start with a vaugue statement of your desire. For
 example:
 
-> LinkedIn's systems should be reliable.
+**LinkedIn's systems should be reliable.**
 
 However, that's not measurable. So the first thing you do is **clarify
 definitions**. 
@@ -45,7 +45,7 @@ The answer could be "We are the team that assures reliability of all the
 products that are used by LinkedIn's users." In that case, that would clarify
 our goal to be:
 
-> The products that are used by LinkedIn's users should be reliable.
+**The products that are used by LinkedIn's users should be reliable.**
 
 That's still not measurable. Nobody could tell you, concretely, if you were
 accomplishing that goal. Here's the remaining problem: what does "reliable"
@@ -65,8 +65,8 @@ bugs, performance issues, and downtime.
 
 So we could update our goal to be:
 
-> LinkedIn's users have an experience of our products that is free from bugs,
-> performance issues, and downtime.
+**LinkedIn's users have an experience of our products that is free from bugs,
+performance issues, and downtime.**
 
 We could get more specific and define "bug," "performance issue," and
 "downtime," if it's not clear to the team what those specifically mean. The

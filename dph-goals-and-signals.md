@@ -23,8 +23,8 @@ That could use some clarification, though.
 What "productive" means isn't very clear, though—what are we actually talking
 about? So, we can refine "Developers at LinkedIn are productive" to:
 
-> Developers at LinkedIn are able to **effectively** and **efficiently**
-> accomplish their **intentions** regarding LinkedIn's **software systems**.
+**Developers at LinkedIn are able to _effectively_ and _efficiently_ accomplish
+their _intentions_ regarding LinkedIn's _software systems_**.
 
 This is a more precise way of stating exactly what we mean by "productive." A
 person is productive, by definition, if they produce products efficiently.
@@ -56,8 +56,8 @@ system isn't accomplishing a developer's intention.
 
 Happy about what? Well, here's a more precise statement:
 
-> Developers at LinkedIn are happy with the tools, systems, processes,
-> facilities, and activities involved in software development at LinkedIn.
+**Developers at LinkedIn are happy with the tools, systems, processes,
+facilities, and activities involved in software development at LinkedIn.**
 
 ### Not Limited to Tools and Infrastructure
 
@@ -159,13 +159,13 @@ mean for engineers? How often is an engineer impacted by that flakiness? Maybe
 the system mostly just runs tests in the background that affect very few people.
 
 In order to define this probability appropriately, you have to know what group
-of engineers you're looking at. You could be looking at the whole company, or some
-specific [persona](developer-personas.md), area, org, or team.
+of engineers you're looking at. You could be looking at the whole company, or
+some specific [persona](developer-personas.md), area, org, or team.
 
 Some specific examples of possible signals here would be:
 
-* The probability that when a developer runs a test in CI, it will produce
-  valid results (that is, if it fails, it's not because of flakiness).
+* The probability that when a developer runs a test in CI, it will produce valid
+  results (that is, if it fails, it's not because of flakiness).
 - The probability that a developer will run a build without the build tool
   crashing.
 - How often (such as the median number of times per day) a developer experiences
