@@ -162,7 +162,8 @@ others will miss, and they have the context to "fill in the gaps" of vague or
 incomplete comments. (Or, they know who they can go talk to to fill in those
 gaps, because they know other developers who share their workflow.)
 
-Persona Champions also have other duties, described elsewhere. <!-- TODO -->
+For more about persona champions, see the [detailed description of their
+duties](persona-champions.md) (which go beyond just survey analysis).
 
 ### What About Using Personas For Quantitative Metrics?
 
