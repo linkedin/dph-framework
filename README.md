@@ -27,8 +27,7 @@ hierarchy here:
   * [Qualitative vs Quantitative Measurements](qualitative-vs-quantitative.md)
   * [Audiences: Always Know Who Your Data is For](audiences.md)
   * [Driving Decisions With Data](driving-decisions.md)
-  * [Collecting with Purpose vs. Collecting
-    "Everything"](collecting-with-purpose-vs-collecting-everything.md)
+  * [Data Collection Principles](data-collection-principles.md)
 * **Quantitative Metrics: General Tips and Guidelines**
   * [Principles and Guidelines for Metric Design](metric-principles.md)
   * [Common Pitfalls When Designing Metrics](metric-pitfalls.md)
