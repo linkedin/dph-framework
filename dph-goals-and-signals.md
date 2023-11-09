@@ -10,6 +10,18 @@ we should come up with new metrics.
 It is based on the [Goals, Signals, Metrics system](goals-signals-metrics.md).
 This document contains our primary Goals and Signals.
 
+- [Goals](#goals)
+  - [Productive](#productive)
+  - [Happy](#happy)
+  - [Not Limited to Tools and Infrastructure](#not-limited-to-tools-and-infrastructure)
+- [Signals](#signals)
+  - [Productive](#productive-1)
+    - [Efficient](#efficient)
+    - [Caution: Don't Compare Individual Efficiency](#caution-dont-compare-individual-efficiency)
+    - [Effective](#effective)
+    - [Over-Indexing On A Single Effectiveness Metric](#over-indexing-on-a-single-effectiveness-metric)
+  - [Happy](#happy-1)
+
 ## Goals
 
 The simplest statement of our goal would be:

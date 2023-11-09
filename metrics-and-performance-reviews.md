@@ -6,6 +6,13 @@ produced," "number of changes submitted to the repository," "numbers of bugs
 fixed," etc. This doc explains why and offers some alternative suggestions of
 how to understand and manage the performance of software engineers.
 
+- [Why Is This Dangerous?](#why-is-this-dangerous)
+  - [Perverse Incentives](#perverse-incentives)
+  - [Doesn’t Actually Do What You Want](#doesnt-actually-do-what-you-want)
+  - [Clouding the Metrics](#clouding-the-metrics)
+- [What Do You Do Instead?](#what-do-you-do-instead)
+  - [Examples of Good Metrics](#examples-of-good-metrics)
+
 ## Why Is This Dangerous?
 
 ### Perverse Incentives

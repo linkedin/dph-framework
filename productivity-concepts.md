@@ -4,6 +4,9 @@ There are some common concepts used when discussing the productivity of software
 developers. These concepts aren't specific to designing metrics, but they
 frequently come up when we think about which metrics to choose.
 
+- [Iteration Time (aka Cycle Time)](#iteration-time-aka-cycle-time)
+- [Context Switching](#context-switching)
+
 ## Iteration Time (aka Cycle Time)
 
 One of the most important things to optimize about software engineering is

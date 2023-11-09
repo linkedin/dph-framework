@@ -6,6 +6,18 @@ process used to pick a metric, and why we consider some metrics good and other
 metrics bad. It also contains some insights around the value (or lack thereof)
 of certain common developer productivity metrics.
 
+- [Company-Wide Engineering Metrics](#company-wide-engineering-metrics)
+  - [Developer Build Time (DBT)](#developer-build-time-dbt)
+  - [Post-Merge CI Duration (PMCID)](#post-merge-ci-duration-pmcid)
+    - [Why Not "CI Success Rate?"](#why-not-ci-success-rate)
+  - [Code Reviewer Response Time (RRT)](#code-reviewer-response-time-rrt)
+    - [Why not "code review volume?"](#why-not-code-review-volume)
+    - [Why not "PR Creation to Merge Time?"](#why-not-pr-creation-to-merge-time)
+- [Metrics for Developer Platform Team](#metrics-for-developer-platform-team)
+  - [CI Reliability (CIR)](#ci-reliability-cir)
+  - [Deployment Reliability (DR)](#deployment-reliability-dr)
+  - [Number of Insights Metrics in SLO (NIMS)](#number-of-insights-metrics-in-slo-nims)
+
 ## Company-Wide Engineering Metrics
 
 ### Developer Build Time (DBT)

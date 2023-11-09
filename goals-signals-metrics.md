@@ -9,6 +9,12 @@ would measure if you had perfect knowledge of everything. Then you choose
 **metrics** that give you some proxy or idea of that signal, since few signals
 can be measured perfectly.
 
+- [Goals](#goals)
+  - [Example Goal](#example-goal)
+  - [Uncertainty](#uncertainty)
+- [Signals](#signals)
+- [Metrics](#metrics)
+
 ## Goals
 
 A goal should be framed as the thing that you want your team, product, or

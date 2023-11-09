@@ -9,6 +9,13 @@ with.
 **When you propose a metric, system, or process involving data, you should
 always explain how it will drive decisions.**
 
+- [Bad Examples](#bad-examples)
+  - [Misleading Numbers](#misleading-numbers)
+  - [No Audience](#no-audience)
+- [Good Example](#good-example)
+- [Driving Decisions Differently for Different Groups](#driving-decisions-differently-for-different-groups)
+- [Focus on Causing Action](#focus-on-causing-action)
+
 ## Bad Examples
 
 Let's look at some bad examples to demonstrate this.

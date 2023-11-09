@@ -21,6 +21,13 @@ different for each audience.
 **When you propose a metric, system, or process, you should always say which of
 the groups below you are serving and how you are serving them.**
 
+- [Front-Line Developers](#front-line-developers)
+- [Front-Line Managers](#front-line-managers)
+- [Engineering Leadership](#engineering-leadership)
+- [Tool Owners](#tool-owners)
+- [Productivity Champions](#productivity-champions)
+- [Levels of Metrics](#levels-of-metrics)
+
 ## Front-Line Developers
 
 A "front-line developer" is any person who directly writes or reviews code.

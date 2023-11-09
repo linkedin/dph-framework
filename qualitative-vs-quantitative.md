@@ -3,6 +3,10 @@
 We collect both quantitative data and qualitative data. They have different uses
 and trade-offs.
 
+- [Qualitative Data](#qualitative-data)
+- [Quantitative Data](#quantitative-data)
+- [Conflicts](#conflicts)
+
 ## Qualitative Data
 
 Usually qualitative data is in the form of personal opinions or sentiments about

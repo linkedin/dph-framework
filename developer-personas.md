@@ -2,6 +2,16 @@
 
 We segment developers into "personas" based on their development workflow.
 
+- [Why Personas?](#why-personas)
+- [How to Define Personas](#how-to-define-personas)
+  - [Define the Categories](#define-the-categories)
+    - [Sub-Personas](#sub-personas)
+  - [Initial Research](#initial-research)
+  - [Categorizing Developers Into Personas](#categorizing-developers-into-personas)
+    - [Example Personas](#example-personas)
+- [What To Do With Personas](#what-to-do-with-personas)
+  - [What About Using Personas For Quantitative Metrics?](#what-about-using-personas-for-quantitative-metrics)
+
 ## Why Personas?
 
 It's very easy to assume, as somebody who works on developer productivity, that

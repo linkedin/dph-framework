@@ -20,6 +20,20 @@ There might be some overlap of operational, business, and productivity metrics,
 though. That is, some productivity metrics might also be business metrics, and a
 very few of them could also be used as operational metrics.
 
+- [Measuring Results vs. Measuring Work](#measuring-results-vs-measuring-work)
+- [Time Series](#time-series)
+  - [Exclude Weekends](#exclude-weekends)
+  - [Defined Weeks](#defined-weeks)
+  - [Timestamps](#timestamps)
+  - [Use the End Time, not the Start Time](#use-the-end-time-not-the-start-time)
+- [Developers vs. Machines](#developers-vs-machines)
+- [Common Dimensions](#common-dimensions)
+- [Going Up or Down Must Be Meaningful](#going-up-or-down-must-be-meaningful)
+  - [Prefer Graphs That Are Good When They Go Up](#prefer-graphs-that-are-good-when-they-go-up)
+- [Retention](#retention)
+- [Business Hours](#business-hours)
+  - [Fallback System](#fallback-system)
+
 ## Measuring Results vs. Measuring Work
 
 We want to measure the impact, results, or effects of our work, rather than just
@@ -55,11 +69,11 @@ weekends in all other types of graphs other than daily graphs. 
 ### Defined Weeks
 
 Unless you have good reason for another requirement, weeks should be measured
-from **12:00am Friday to the end of Thursday**. Cutting off our metrics at
-the end of Thursday gives executives enough time to do reviews and
-investigations for Monday or Tuesday meetings. When we cannot specify a time
-zone, we should assume we are measuring things in the `America/Los_Angeles`
-time zone However, all data should be _stored_ in the **UTC** time zone.
+from **12:00am Friday to the end of Thursday**. Cutting off our metrics at the
+end of Thursday gives executives enough time to do reviews and investigations
+for Monday or Tuesday meetings. When we cannot specify a time zone, we should
+assume we are measuring things in the `America/Los_Angeles` time zone However,
+all data should be _stored_ in the **UTC** time zone.
 
 ### Timestamps
 
@@ -97,15 +111,15 @@ machines doing the task, as that is sometimes relevant for answering questions
 about developer productivity.
 
 Sometimes, a question comes up on whether to count something as being machine
-time or developer time. For example, let's say a developer types a command
-on their machine that causes the CI system to run a bunch of tests. The question
-to ask is, "Most of the time, is this action costing us developer time?" A
+time or developer time. For example, let's say a developer types a command on
+their machine that causes the CI system to run a bunch of tests. The question to
+ask is, "Most of the time, is this action costing us developer time?" A
 developer doesn't have to just be sitting there and waiting for the action to
 finish, for it to be costing us developer time. Maybe it takes so long that they
-switch contexts, go read email, go eat lunch, etc. That's still developer
-cost. On the other hand, let's say there is a daily automated process that runs
-a test and then reports the test result to a developer. We would count the time
-spent running that test as "machine time," because it wasn't actively spending
+switch contexts, go read email, go eat lunch, etc. That's still developer cost.
+On the other hand, let's say there is a daily automated process that runs a test
+and then reports the test result to a developer. We would count the time spent
+running that test as "machine time," because it wasn't actively spending
 developer time.
 
 This is particularly relevant when looking at things that happen in parallel.
@@ -171,14 +185,14 @@ of data we want to retain.
 Some metrics are defined in terms of "business hours." 
 
 Basically, we are measuring the _perceived_ wait time experienced by a
-developer. For example, imagine a Alice sends off a code review request at
-5pm and then goes home. Bob, in another time zone, reviews that code while Alice
-is sleeping. Alice comes back into work the next day and experiences a code
-review that, for her, she received in zero hours.
+developer. For example, imagine a Alice sends off a code review request at 5pm
+and then goes home. Bob, in another time zone, reviews that code while Alice is
+sleeping. Alice comes back into work the next day and experiences a code review
+that, for her, she received in zero hours.
 
-The ideal way to measure business hours would be to do an automated analysis for each
-individual to determine what their normal working hours are (making sure to keep
-this information confidential, only use it as an input to our productivity
+The ideal way to measure business hours would be to do an automated analysis for
+each individual to determine what their normal working hours are (making sure to
+keep this information confidential, only use it as an input to our productivity
 metrics, and never expose it outside of our team). Once you have established
 this baseline for each individual (which you will have to update on some regular
 basis) you only count time spent by individuals during those hours.

@@ -19,6 +19,18 @@ These definitions are written so that implementers can implement them, but
 _also_ so that people who have questions about "What specifically is this
 actually measuring?" can have a place to get that question answered.
 
+- [Company-Wide Engineering Metrics](#company-wide-engineering-metrics)
+  - [Developer Build Time (DBT)](#developer-build-time-dbt)
+  - [Post-Merge CI Duraction (PMCID)](#post-merge-ci-duraction-pmcid)
+  - [CI Determinism (CID)](#ci-determinism-cid)
+  - [Code Reviewer Response Time (RRT)](#code-reviewer-response-time-rrt)
+    - [Definitions](#definitions)
+    - [Metric](#metric)
+- [Metrics for the Developer Platform Team](#metrics-for-the-developer-platform-team)
+  - [CI Reliability (CIR)](#ci-reliability-cir)
+  - [Deployment Reliability (DR)](#deployment-reliability-dr)
+  - [Number of Insights Metrics in SLO (NIMS)](#number-of-insights-metrics-in-slo-nims)
+
 ## Company-Wide Engineering Metrics
 
 These are some examples of metrics we measure for the whole company.

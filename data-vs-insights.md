@@ -22,8 +22,14 @@ to explain:**
 5. **How do you ensure the accuracy of the data now and in the   
    future?**
 
-
 Let's explain this a bit more, with some examples.
+
+- [Example: Graphs](#example-graphs)
+- [Example: Free-text Feedback](#example-free-text-feedback)
+  - [Categorization](#categorization)
+  - [Algorithmic Analysis](#algorithmic-analysis)
+- [Trustworthiness of Insights](#trustworthiness-of-insights)
+- [Accuracy of Data](#accuracy-of-data)
 
 ## Example: Graphs
 
