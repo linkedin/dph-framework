@@ -180,3 +180,5 @@ particular PR was part of a deployment. Record that an alert was fired against a
 binary that was part of a particular deployment. And so forth. Any two objects
 that _are_ related should be able to be easily connected by querying your data
 store.
+
+Next: [Principles and Guidelines for Metric Design](metric-principles.md)

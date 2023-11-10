@@ -124,3 +124,5 @@ It can be useful to ask people who request data:
 
 If the answer to question #2 is "no," then it's not worth working on that
 analysis.
+
+Next: [Data Collection Principles](data-collection-principles.md)

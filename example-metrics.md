@@ -263,3 +263,5 @@ if we are measuring this for a quarter, we average them out over the whole
 quarter. By "each update" we mean every time the pipeline updated itself such
 that the dashboard would show an updated number. By "latency" we mean the time
 between each update, or the time between the last update and present time. 
+
+Next: [Why Did We Choose Our Metrics?](why-our-metrics.md)

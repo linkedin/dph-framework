@@ -158,3 +158,5 @@ things are bad. If you show them some beautiful number when they are all
 suffering, all that will happen is you will damage your
 [credibility](https://www.codesimplicity.com/post/effective-engineering-productivity/)
 and nobody will ever believe you again in the future.
+
+Next: [What's Wrong with "Scores?"](scores.md)

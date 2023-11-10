@@ -158,3 +158,5 @@ whatever makes sense. You could also get qualitative feedback from developers
 about how much easier the code was to use or read afterward. Some refactoring
 projects improve reliability or other metrics, and can be tracked that way. It
 just depends on what the intent is behind the project.
+
+Next: [Productivity Concepts for Software Developers](productivity-concepts.md)

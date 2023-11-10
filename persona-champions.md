@@ -109,3 +109,5 @@ questions posed to them, as long as those questions will actually assist in
 developer productivity if answered. If the work to answer a question would be
 too extensive, it is fine for the persona champion to decline to answer it,
 citing the amount of work that would be involved in getting the data.
+
+Next: [Data vs. Insights](data-vs-insights.md)

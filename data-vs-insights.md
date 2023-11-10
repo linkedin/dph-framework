@@ -163,3 +163,5 @@ is accurate for large sample sizes but inaccurate for small sample sizes, it
 should say so on the page that presents the data, or it should print a warning
 (one that actually makes sense and explains things to the user) any time it's
 displaying information about small sample sizes.
+
+Next: [Qualitative vs Quantitative Measurements](qualitative-vs-quantitative.md)

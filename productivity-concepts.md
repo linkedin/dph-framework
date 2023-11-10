@@ -61,3 +61,5 @@ important, leading to bugs or missed opportunities in your actual production
 systems.
 
 So it’s important to avoid making developers context switch.
+
+Next: [Example Metrics](example-metrics.md)

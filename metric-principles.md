@@ -223,3 +223,5 @@ the range as 7am to 7pm eliminates most of those anomalies.
 
 One still needs to limit the maximum "business hours" counted in a day to eight
 hours, though, for most metrics.
+
+Next: [Common Pitfalls When Designing Metrics](metric-pitfalls.md)
