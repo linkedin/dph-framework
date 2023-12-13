@@ -36,7 +36,33 @@ hierarchy here:
   * [Example Metrics](example-metrics.md)
   * [Why Did We Choose Our Metrics?](why-our-metrics.md)
 
----
+## Forking, Modifying, and Contributing
+
+We have made the DPH Framework open-source so that you can fork, modify, and
+re-use these documents however you wish, as long as you respect the license that
+is on the repository. You can see the source in our [GitHub
+repo](https://github.com/linkedin/dph-framework/).
+
+We welcome community contributions that help move forward the state of the art
+in understanding software developers across the entire software industry. If
+there’s something missing in the documents that you’d like to see added, feel
+free to file an issue via [GitHub
+Issues](https://github.com/linkedin/dph-framework/issues)! If you just have
+questions or a discussion you’d like to have, participate in our [GitHub
+Discussions](https://github.com/linkedin/dph-framework/discussions).
+
+And of course, if you want to contribute new text or improvements to the
+existing text, we welcome your contributions! Keep in mind that we hold this
+framework to a very high standard---we want it to be validated by real
+experience in the software industry, generally applicable across a wide range of
+software development environments, and that additional inputs are both
+interesting and accessible to a broader audience. If you think you have content
+that meets that bar and fits in with these documents, we would love to have your
+contribution! If you’re not sure, start a
+[discussion[(https://github.com/linkedin/dph-framework/issues) or just send us a
+PR and we can discuss it.
+
+## License
 
 The LinkedIn Developer Productivity & Happiness Framework is licensed under [CC
 BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
