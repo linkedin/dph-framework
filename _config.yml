@@ -1,3 +1,4 @@
 remote_theme: pages-themes/primer
 plugins:
   - jekyll-remote-theme
+title: The LinkedIn Developer Productivity and Happiness Framework (DPH Framework)

@@ -1,5 +1,3 @@
-# The LinkedIn Developer Productivity & Happiness Framework (DPH Framework)
-
 At LinkedIn, we have a fairly advanced system for understanding our developers,
 the success of our engineering work, and where we should focus our
 infrastructure efforts to be most effective.
