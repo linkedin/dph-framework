@@ -58,8 +58,8 @@ And of course, if you want to contribute new text or improvements to the
 existing text, we welcome your contributions! Keep in mind that we hold this
 framework to a very high standard---we want it to be validated by real
 experience in the software industry, generally applicable across a wide range of
-software development environments, and that additional inputs are both
-interesting and accessible to a broader audience. If you think you have content
+software development environments, and assure that additional inputs are both
+interesting and accessible to a broad audience. If you think you have content
 that meets that bar and fits in with these documents, we would love to have your
 contribution! If you’re not sure, start a
 [discussion[(https://github.com/linkedin/dph-framework/issues) or just send us a
