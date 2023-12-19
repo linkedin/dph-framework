@@ -72,7 +72,7 @@ Unless you have good reason for another requirement, weeks should be measured
 from **12:00am Friday to the end of Thursday**. Cutting off our metrics at the
 end of Thursday gives executives enough time to do reviews and investigations
 for Monday or Tuesday meetings. When we cannot specify a time zone, we should
-assume we are measuring things in the `America/Los_Angeles` time zone However,
+assume we are measuring things in the `America/New_York` time zone However,
 all data should be _stored_ in the **UTC** time zone.
 
 ### Timestamps
