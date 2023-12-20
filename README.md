@@ -62,7 +62,7 @@ software development environments, and assure that additional inputs are both
 interesting and accessible to a broad audience. If you think you have content
 that meets that bar and fits in with these documents, we would love to have your
 contribution! If you’re not sure, start a
-[discussion[(https://github.com/linkedin/dph-framework/issues) or just send us a
+[discussion](https://github.com/linkedin/dph-framework/issues) or just send us a
 PR and we can discuss it.
 
 ## License
