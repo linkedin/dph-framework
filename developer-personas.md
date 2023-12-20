@@ -21,7 +21,7 @@ workflows. If you've never done mobile development, web development, or ML
 development, for example, you might be very surprised to learn how different the
 workflows are!
 
-One of the most common mistakes that developer productivity temas make is only
+One of the most common mistakes that developer productivity teams make is only
 focusing on the largest group of developers at the company. For example, many
 companies have _far_ more backend server engineers than they have mobile frontend
 engineers, and so they assume that most (or all) of the developer productivity
