@@ -57,7 +57,7 @@ work of writing our systems**.
 
 By this, we mean managers who directly manage teams of developers. Often,
 managers of managers have similar requirements to front-line managers, and so
-could also covered as part of this audience.
+could also be covered as part of this audience.
 
 We provide [data](data-vs-insights.md) that front-line managers can use to form
 their own insights about what their team should be working on or how they should
