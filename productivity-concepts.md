@@ -36,7 +36,7 @@ switching, as described below.
 ## Context Switching
 
 Developers will "context switch" to another activity if they have to wait a
-certain amoun tof time for something. For example, they might go read their
+certain amount of time for something. For example, they might go read their
 email or work on something else if they have to wait longer than 30 - 60 seconds
 for a build to complete. The specific time depends on various factors, such as a
 person's expectations for how long the task _should_ take, how the task informs
