@@ -60,7 +60,7 @@ infrastructure.
 
 We report this as P50 (median) and P90, so we have “DBT P50” and “DBT P90.”
 
-### Post-Merge CI Duraction (PMCID)
+### Post-Merge CI Duration (PMCID)
 
 **TL;DR: How long is it between when I say I want to submit a change and when
 its post-merge CI job fully completes?**
