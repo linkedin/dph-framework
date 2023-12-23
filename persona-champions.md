@@ -23,7 +23,7 @@ a persona, etc. then the persona champion is your best point of contact.
 When first creating the [Developer Personas](developer-personas.md), it is often
 helpful to provide infrastructure owners with some basic information about how
 that persona does work. A persona champion produces and maintains a document
-that ansnwers the questions, "What is the most common workflow that a developer
+that answers the questions, "What is the most common workflow that a developer
 has, in this persona? What tools do they use as part of this workflow, and how
 do they use them?"
 
@@ -68,7 +68,7 @@ any other developers who might benefit from it, at the company?
 
 Persona champions are the primary people responsible for processing the feedback
 from our surveys and real-time feedback systems. They get access to the raw
-feedback data in order to process and categorize it actionable
+feedback data in order to process and categorize its actionable
 [insights](data-vs-insights.md).
 
 After each survey, this process occurs:
@@ -89,7 +89,7 @@ After each survey, this process occurs:
    agree on next steps. Somebody (such as a Technical Program Manager) is
    responsible for following up and making sure those next steps get executed.
 
-It is important that this whole process happen _before_ the planning cycle of
+It is important that this whole process happens _before_ the planning cycle of
 the infrastructure teams, so that there is enough time for them to consider
 developer feedback in their planning.
 
