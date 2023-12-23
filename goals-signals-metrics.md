@@ -35,7 +35,7 @@ but that conceptually, a person could know whether you were getting closer to
 
 ### Example Goal
 
-In developing a goal, you can start with a vaugue statement of your desire. For
+In developing a goal, you can start with a vague statement of your desire. For
 example:
 
 **LinkedIn's systems should be reliable.**
