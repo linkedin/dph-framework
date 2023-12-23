@@ -10,7 +10,7 @@ viewer**. Now, one can do this _more_ or _less_--not all insights will fully
 answer _every_ question. Some might just help clarify, and the viewer has to do
 the rest of the analysis to fully answer their question. 
 
-**When you propose an system or process that provides insights, it is a good idea
+**When you propose a system or process that provides insights, it is a good idea
 to explain:**
 
 1. **What mysteries does this solve?** 
