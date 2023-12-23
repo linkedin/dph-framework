@@ -131,7 +131,7 @@ it goes down, because we have a less buggy system? Or (as usually happens) does
 it just mean some team changed the administrative details of how they track
 bugs, and thus the upward or downward movement is meaningless?
 
-The most common offenders here are [metrics that aggregate multiple mumbers into
+The most common offenders here are [metrics that aggregate multiple numbers into
 a score](scores.md).
 
 ## Vanity Metrics
