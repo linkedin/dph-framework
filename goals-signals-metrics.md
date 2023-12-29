@@ -154,8 +154,8 @@ Example metrics for our "reliability" goal from above might be something like:
   then count how often UI interactions happen _under_ those thresholds. (Display
   a percentage of how many UI interactions have an "acceptable" latency.)
 
-If you look at our signals above, you will see that some of these map back to
-our signals.
+If you look at the signals above, you will see that some of these metrics map back
+to those signals.
 
 Overall, there is a _lot_ to know about metrics, including what makes metrics
 good or bad, how to take action on them, what types of metrics to use in what
