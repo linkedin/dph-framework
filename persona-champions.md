@@ -68,7 +68,7 @@ any other developers who might benefit from it, at the company?
 
 Persona champions are the primary people responsible for processing the feedback
 from our surveys and real-time feedback systems. They get access to the raw
-feedback data in order to process and categorize its actionable
+feedback data in order to process and categorize it into actionable
 [insights](data-vs-insights.md).
 
 After each survey, this process occurs:
