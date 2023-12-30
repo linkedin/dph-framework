@@ -186,7 +186,7 @@ Developers vs JavaScript Web Developers.  Splitting the data by persona would
 get you confusing overlaps—you might have some full-stack engineers who write
 both Java and JavaScript. It makes the data confusing and hard to analyze.
 
-What you would wnat to do instead in that situation is analyze the build speed
+What you would want to do instead in that situation is analyze the build speed
 based on what language is being compiled. Then you would have actionable data
 that the owners of the build tools could use to speed things up, as opposed to
 a confusing mash of mixed signals.
