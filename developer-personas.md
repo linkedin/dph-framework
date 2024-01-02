@@ -60,7 +60,7 @@ percentage respond to the survey, we can still get statistically significant
 data about the persona as a whole. Of course, if your company is smaller, you
 might be doing interviews instead of surveys, in which case the personas should
 be whatever size makes sense for you. The key is: don't have _too many_
-personas, becasue that makes survey analysis hard. We currently have ten
+personas, because that makes survey analysis hard. We currently have ten
 developer personas for an engineering org with thousands of people in it, and
 that number has seemed manageable.
 
