@@ -161,7 +161,7 @@ A better data layout would look like:
    indicates an intent to deploy Binary Foo and Binary Baz to 200 machines. We
    give this specific instance of the workflow an ID: "Deploy It 2543."
 2. We record all of the actions taken by "Deploy It 2543" and be sure to tag
-   them in our data store witih that ID.
+   them in our data store with that ID.
 3. The deployment workflow itself contains a configuration variable that allows
    users to specify how many hosts the machine must successfully deploy to
    before we consider the deployment "successful." For example, let's say this

@@ -72,7 +72,7 @@ Unless you have good reason for another requirement, weeks should be measured
 from **12:00am Friday to the end of Thursday**. Cutting off our metrics at the
 end of Thursday gives executives enough time to do reviews and investigations
 for Monday or Tuesday meetings. When we cannot specify a time zone, we should
-assume we are measuring things in the `America/Los_Angeles` time zone However,
+assume we are measuring things in the `America/Los_Angeles` time zone. However,
 all data should be _stored_ in the **UTC** time zone.
 
 ### Timestamps
@@ -177,15 +177,15 @@ _extremely_ small, whereas the potential benefit to the business from being able
 to do long-term analysis is huge.
 
 Of course, if there are legitimate legal or regulatory constrains on retention,
-make sure to follow those. However, there are rarely such constaints on the type
+make sure to follow those. However, there are rarely such constraints on the type
 of data we want to retain.
 
 ## Business Hours
 
-Some metrics are defined in terms of "business hours." 
+Some metrics are defined in terms of "business hours."
 
 Basically, we are measuring the _perceived_ wait time experienced by a
-developer. For example, imagine a Alice sends off a code review request at 5pm
+developer. For example, imagine Alice sends off a code review request at 5pm
 and then goes home. Bob, in another time zone, reviews that code while Alice is
 sleeping. Alice comes back into work the next day and experiences a code review
 that, for her, she received in zero hours.
@@ -214,7 +214,7 @@ _contractual obligations_ to work more than 8 hours a day.
 
 ### Fallback System
 
-If you cannot generate an automated analyis of working hours for each
+If you cannot generate an automated analysis of working hours for each
 individual, then set the "business day" as being 7am to 7pm in their local time
 zone. We don't use 9am to 5pm because the schedule of developers varies, and you
 don't want to count 0 for a lot of business hour metrics when a person regularly
