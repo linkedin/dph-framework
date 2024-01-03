@@ -152,7 +152,7 @@ problem, themselves.
 
 ## Levels of Metrics
 
-When desgining [metrics](goals-signals-metrics.md), there is another thing to
+When designing [metrics](goals-signals-metrics.md), there is another thing to
 think about besides the above audiences, which is "what level of the org chart
 is this audience at?" For example, the entire developer tools org might have a
 set of metrics that measure the overall success of that org. However, individual

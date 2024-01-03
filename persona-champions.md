@@ -44,7 +44,7 @@ for:
 * Monitoring and Alerting
 
 Each persona will have custom steps in addition to (or instead of) those. Some
-personas, like data scientsts, will have completely different workflow steps.
+personas, like data scientists, will have completely different workflow steps.
 
 This isn't just a list of tools, but sentences that describe how those tools are
 used in each "phase" of development above.
@@ -84,7 +84,7 @@ After each survey, this process occurs:
    is being named as a top pain point for a persona.
 3. We schedule a meeting that includes all those relevant stakeholders. The
    attendees should include people who have priority control over the work of
-   the relevant infarstructure teams (i.e., the managers of the stuff named in
+   the relevant infrastructure teams (i.e., the managers of the stuff named in
    the pain points). We go over the analysis document, answer questions, and
    agree on next steps. Somebody (such as a Technical Program Manager) is
    responsible for following up and making sure those next steps get executed.

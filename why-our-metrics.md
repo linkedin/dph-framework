@@ -117,9 +117,9 @@ its value for your company.
 
 There is a secret to maintaining strictness while removing complaints: [have the
 reviewers reply
-faster](https://google.github.io/eng-practices/review/reviewer/speed.html) As
+faster](https://google.github.io/eng-practices/review/reviewer/speed.html). As
 wild as it may sound, nearly _all_ complaints about strictness are actually
-complaints about _speed_. 
+complaints about _speed_.
 
 Think about it this way: you submit a change, wait three days, the reviewer asks
 you to make major changes. Then you submit those changes, wait three days, and
