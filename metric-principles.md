@@ -102,7 +102,7 @@ looked at the graph and made plans based on its trend.)
 Almost all our productivity metrics are defined by saying "a developer" does
 something. **For each metric,** we need to have two different versions of the
 same metric: one for when machines do the task, and one for when people do the
-task. For example, we need to measure human beings doing doing `git clone` and
+task. For example, we need to measure human beings doing `git clone` and
 the CI system (or any other automated system) doing `git clone` separately.
 
 **The most important metrics are the ones where people do the task, not the ones
