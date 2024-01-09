@@ -74,8 +74,8 @@ important to the business.
 People often ask if they can split the personas down even further and have
 "sub-personas." Sure, you can totally do that. For example, you might have one
 overall persona for people whose job it is to maintain production systems
-(called SREs, DevOps Engineers, or System Administrators). However, you might
-have one large sub-group that works on creating _tools_ for production
+(called SREs, Application Engineers, or System Administrators). However, you
+might have one large sub-group that works on creating _tools_ for production
 management, and another large sub-group that works on handling major incidents
 in production. Those could be two sub-personas, because their workflows and
 needs are very different, even though they have _some_ things in common.
