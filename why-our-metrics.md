@@ -37,9 +37,9 @@ build checks?
 
 ### Post-Merge CI Duration (PMCID)
 
-This is, to a large degree, another [iteration time](productivity-principles.md)
+This is, to a large degree, another [iteration time](productivity-concepts.md)
 issue. It's less common that a developer is actively _waiting_ for a post-merge
-to finish, so this isn't about [context switching](productivity-principles.md).
+to finish, so this isn't about [context switching](productivity-concepts.md).
 However, a developer may want to know that there is some problem in CI (if there
 is). In particular, if the signal from the CI system comes _after_ the
 developer's working hours, that means you've potentially lost a lot of
