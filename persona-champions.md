@@ -59,7 +59,7 @@ small enough that people can read it and you can easily maintain it in the
 future, while still being useful for its readers.
 
 These documents are useful for infrastructure owners who are engaging in new
-stategic initiatives and need to understand if their plans are going to fit in
+strategic initiatives and need to understand if their plans are going to fit in
 with how developers across the company work. For example, if I'm going to work
 on a new web framework, does it fit in with how web developers work? Are there
 any other developers who might benefit from it, at the company?
