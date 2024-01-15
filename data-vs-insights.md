@@ -19,8 +19,7 @@ to explain:**
    provide) trustworthy insights to its users?**
 4. **How will you change this system in the future if you discover a flaw in the
    metric, system, or process you’ve proposed?**
-5. **How do you ensure the accuracy of the data now and in the   
-   future?**
+5. **How do you ensure the accuracy of the data now and in the future?**
 
 Let's explain this a bit more, with some examples.
 
