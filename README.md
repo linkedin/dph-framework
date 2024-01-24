@@ -73,4 +73,4 @@ BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
 ![CC](
 https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1)![BY](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1)
 
-Copyright &copy; 2023 LinkedIn Corporation
+Copyright &copy; 2024 LinkedIn Corporation
